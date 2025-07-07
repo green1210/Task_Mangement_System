@@ -74,7 +74,7 @@ taskflow/
 
 ---
 
-## 🧪 Getting Started
+## ⚙️ Project Setup
 
 To run TaskFlow locally, follow these steps:
 
