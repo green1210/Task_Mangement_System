@@ -33,8 +33,10 @@
 
 ## 🖼️ Screenshots
 
-| Dashboard | Create Task | Create Project | Calendar |
-|-----------|-------------|----------------|----------|
+| Dashboard | Create Task |
+|-----------|-------------|
+| Create Project | Calendar |
+|----------------|----------|
 | ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) | ![Projects](screenshots/projects.png) | ![Calendar](screenshots/calendar.png) |
 
 ---
