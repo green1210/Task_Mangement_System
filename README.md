@@ -28,7 +28,7 @@
 
 | Dashboard | Create Task | Task Details |
 |-----------|-------------|--------------|
-| ![Home](./screenshot/home.png) | ![Create](./screenshots/tasks.png) | ![Details](./screenshot/projects.png) |
+| ![Home](screenshots/dashboard.png) | ![Create](screenshots/tasks.png) | ![Details](screenshot/projects.png) |
 
 ---
 
