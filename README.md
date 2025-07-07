@@ -35,9 +35,10 @@
 
 | Dashboard | Create Task |
 |-----------|-------------|
+| ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) |
 | Create Project | Calendar |
 |----------------|----------|
-| ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) | ![Projects](screenshots/projects.png) | ![Calendar](screenshots/calendar.png) |
+| ![Projects](screenshots/projects.png) | ![Calendar](screenshots/calendar.png) |
 
 ---
 
