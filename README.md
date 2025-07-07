@@ -37,7 +37,6 @@
 |-----------|-------------|
 | ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) |
 | Create Project | Calendar |
-|----------------|----------|
 | ![Projects](screenshots/projects.png) | ![Calendar](screenshots/calendar.png) |
 
 ---
