@@ -4,12 +4,6 @@
   A sleek and minimal task management app to help you plan, organize, and conquer your day.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/license/your-username/taskflow?style=for-the-badge"/>
-  <img src="https://img.shields.io/github/languages/top/your-username/taskflow?style=for-the-badge"/>
-</p>
-
 ---
 
 ## 📌 Overview
@@ -34,7 +28,7 @@
 
 | Dashboard | Create Task | Task Details |
 |-----------|-------------|--------------|
-| ![Home](./assets/screenshot-home.png) | ![Create](./assets/screenshot-create.png) | ![Details](./assets/screenshot-details.png) |
+| ![Home](./screenshot/home.png) | ![Create](./screenshot/tasks.png) | ![Details](./screenshot/projects.png) |
 
 ---
 
@@ -53,3 +47,35 @@
 
 ## 📁 Folder Structure
 
+taskflow/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── pages/
+│ ├── context/
+│ ├── utils/
+│ ├── App.jsx
+│ └── main.jsx
+├── .gitignore
+├── package.json
+└── README.md
+
+
+---
+
+## 🧪 Getting Started
+
+To run TaskFlow locally, follow these steps:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/taskflow.git
+cd taskflow
+
+#Install Dependencies
+ npm install
+
+#Start the Dev Server
+npm run dev
