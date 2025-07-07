@@ -26,9 +26,9 @@
 
 ## 🖼️ Screenshots
 
-| Dashboard | Create Task | Task Details |
-|-----------|-------------|--------------|
-| ![Home](screenshots/dashboard.png) | ![Create](screenshots/tasks.png) | ![Details](screenshot/projects.png) |
+| Dashboard | Create Task | Create Project | Calendar |
+|-----------|-------------|----------------|----------|
+| ![Dashboard](screenshots/dashboard.png) | ![Tasks](screenshots/tasks.png) | ![Projects](screenshots/projects.png) | ![Calendar](screenshots/calendar.png) |
 
 ---
 
@@ -41,7 +41,6 @@
 - **Icons**: Lucide/Heroicons
 - **State Management**: React Context API
 - **Routing**: React Router DOM
-- **Backend**: (Optional – JSON Server / Firebase / Supabase)
 
 ---
 
