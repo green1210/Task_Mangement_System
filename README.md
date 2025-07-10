@@ -17,8 +17,7 @@
 - ✅ Create, edit, and delete tasks
 - 📌 Mark tasks as completed or pending
 - 🗃️ Organize tasks by categories or priorities
-- 🧠 Simple and intuitive UX
-- 🌙 Light/Dark mode (optional or WIP)
+- 🧠 Simple and intuitive UX)
 - 🔍 Filter & search tasks (if available)
 - ⚡ Fast and responsive performance
 
